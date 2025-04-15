@@ -21,7 +21,5 @@
 
 ![profile-stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rosto4eks&theme=tokyonight)
 
-![stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rosto4eks&theme=tokyonight)
-
 [![github](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Rosto4eks)
 
