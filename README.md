@@ -1,5 +1,5 @@
 <h2>Hello!</h2>
-<p>I'm Rostislav, software developer. Currently work with golang</p>
+<p>I'm Rostislav, machine learing developer</p>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Rosto4eks)](https://git.io/streak-stats)
 
